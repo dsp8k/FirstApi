@@ -192,3 +192,4 @@ document.getElementById('product-form').addEventListener('submit', (event) => {
 // Load products when the page loads
 window.onload = fetchProducts;
 
+
